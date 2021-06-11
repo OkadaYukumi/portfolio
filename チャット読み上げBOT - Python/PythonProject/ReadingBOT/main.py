@@ -53,4 +53,4 @@ async def on_message( message ): # メッセージ受信・取得
             pass
     await client.process_commands( message )
 
-client.run("ODQzNzIxNjUwMDAzNzcxNDEy.YKH_BA.b4D3yqqttLkT9zdIHF9-Ko4ueZ8") #BOTトークン
+client.run("**************************************************") #BOTトークン
